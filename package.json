@@ -1,0 +1,29 @@
+{
+  "name": "dumil08admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milos Djokovic",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.5",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.10.0",
+    "gulp-watch-less": "^1.0.1",
+    "less-plugin-autoprefix": "^1.5.1",
+    "tsify": "^0.13.2",
+    "typescript": "^1.7.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0"
+  }
+}

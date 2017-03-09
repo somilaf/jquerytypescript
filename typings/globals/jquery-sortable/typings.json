@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7de6c3dd94feaeb21f20054b9f30d5dabc5efabd/jquery-sortable/jquery-sortable.d.ts",
+    "raw": "registry:dt/jquery-sortable#0.9.12+20160317120654",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7de6c3dd94feaeb21f20054b9f30d5dabc5efabd/jquery-sortable/jquery-sortable.d.ts"
+  }
+}

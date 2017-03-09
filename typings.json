@@ -1,0 +1,14 @@
+{
+  "name": "dumil08admin",
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#661fc869669af796c6048483e999dce5732eed72",
+    "jquery.validation": "registry:dt/jquery.validation#1.13.1+20160215162030",
+    "require": "github:DefinitelyTyped/DefinitelyTyped/requirejs/require.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c"
+  },
+  "globalDependencies": {
+    "alertify": "registry:dt/alertify#0.0.0+20160317120654",
+    "jquery-sortable": "registry:dt/jquery-sortable#0.9.12+20160317120654"
+  }
+}

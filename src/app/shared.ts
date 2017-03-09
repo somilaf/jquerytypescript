@@ -1,0 +1,1 @@
+export const picturePath:string="dumil08new/";

@@ -1,0 +1,9 @@
+// Formiranje grid sistema uz pomoc Less-a
+
+.create-columns(@row-width;@num-col;@i:1) when (@i=<@num-col) {
+    .col-@{i}{
+        @single-width: @row-width/@num-col;
+        width: @i*@single-width;
+    }
+    .create-columns(@row-width;@num-col;@i+1); 
+}
